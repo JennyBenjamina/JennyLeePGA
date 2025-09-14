@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: custom fonts */
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap");
+
+/* CSS Variables */
+:root {
+  --primary-color: #002c11;
+  --primary-hover: #002e08;
+  --accent-color: #f3b5d9;
+  --text-primary: #374151;
+  --text-secondary: #6b7280;
+  --bg-primary: #fefefe;
+  --bg-secondary: #f9fafb;
+  --shadow: 0 1px 3px 0 rgb(0 0 0 / 0.05), 0 1px 2px -1px rgb(0 0 0 / 0.05);
+}
+
+.font-serif {
+  font-family: "Playfair Display", serif;
+}
+.font-sans {
+  font-family: "Poppins", sans-serif;
+}
