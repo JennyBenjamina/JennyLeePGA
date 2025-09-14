@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.65228a6b.css",
-    "main.js": "/static/js/main.8b161eeb.js",
-    "index.html": "/index.html",
-    "main.65228a6b.css.map": "/static/css/main.65228a6b.css.map",
-    "main.8b161eeb.js.map": "/static/js/main.8b161eeb.js.map"
+    "main.css": "/JennyLeePGA/static/css/main.65228a6b.css",
+    "main.js": "/JennyLeePGA/static/js/main.810821b9.js",
+    "index.html": "/JennyLeePGA/index.html",
+    "main.65228a6b.css.map": "/JennyLeePGA/static/css/main.65228a6b.css.map",
+    "main.810821b9.js.map": "/JennyLeePGA/static/js/main.810821b9.js.map"
   },
   "entrypoints": [
     "static/css/main.65228a6b.css",
-    "static/js/main.8b161eeb.js"
+    "static/js/main.810821b9.js"
   ]
 }
