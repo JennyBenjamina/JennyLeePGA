@@ -26,15 +26,11 @@ const ExperienceSection = () => {
 
   const experiences = [
     {
-      title: (
-        <>
-          Director of Player <br className="lg:hidden" /> Development
-        </>
-      ),
-      company: "Las Posas Country Club",
-      period: "Aug 2024 - Sep 2025",
+      title: "Founder & CEO",
+      company: "Connect ProAm",
+      period: "May 2025 - Present",
       description:
-        "Developed and implemented comprehensive player development programs, enhancing member engagement and satisfaction.",
+        "Leading a platform that connects golf professionals with amateur players to elevate their experience on the golf course.",
       icon: <Code className="w-6 h-6 text-primary" />,
     },
     {
@@ -46,7 +42,11 @@ const ExperienceSection = () => {
       icon: <Code className="w-6 h-6 text-primary" />,
     },
     {
-      title: "Director of Player Development",
+      title: (
+        <>
+          Director of Player <br className="lg:hidden" /> Development
+        </>
+      ),
       company: "Las Posas Country Club",
       period: "Aug 2024 - Sep 2025",
       description:
