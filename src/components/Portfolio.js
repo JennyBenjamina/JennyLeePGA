@@ -250,7 +250,7 @@ const Portfolio = () => {
 
                 {/* Mobile Profile Section */}
                 <div className="text-center mb-8 mt-8">
-                  <div className="mx-auto mb-4 w-32 aspect-square rounded-3xl bg-gradient-to-br from-purple-200 to-pink-200 rounded-3xl mx-auto mb-4 flex items-center justify-center overflow-hidden">
+                  <div className="mx-auto mb-4 w-32 aspect-square rounded-3xl bg-gradient-to-br from-purple-200 to-pink-200 flex items-center justify-center overflow-hidden">
                     <img
                       src="https://res.cloudinary.com/djymzrhvb/image/upload/f_auto,q_auto,w_256,h_256,c_fill/IMG_2151_knmhma_d4034c.jpg"
                       alt="Jenny Lee Headshot"

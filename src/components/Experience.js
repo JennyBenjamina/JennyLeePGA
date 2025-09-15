@@ -83,7 +83,7 @@ const ExperienceSection = () => {
             <div className="absolute top-4 right-4 w-10 h-10 bg-accent rounded-full flex items-center justify-center shadow md:hidden">
               {exp.icon}
             </div>
-            <div className="absolute md:left-3 top-8 w-6 h-6 bg-primary border-4 border-accent rounded-full flex items-center justify-center hidden md:flex">
+            <div className="absolute md:left-3 top-8 w-6 h-6 bg-primary border-4 border-accent rounded-full items-center justify-center hidden md:flex">
               {exp.icon}
             </div>
 
