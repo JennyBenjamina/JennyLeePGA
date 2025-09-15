@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import { User, Code } from "lucide-react";
+import { User, Code, Briefcase, Clapperboard } from "lucide-react";
 
 const ExperienceSection = () => {
   const cardsRef = useRef([]);
@@ -31,7 +31,7 @@ const ExperienceSection = () => {
       period: "May 2025 - Present",
       description:
         "Leading a platform that connects golf professionals with amateur players to elevate their experience on the golf course.",
-      icon: <Code className="w-6 h-6 text-primary" />,
+      icon: <Briefcase className="w-6 h-6 text-primary" />,
     },
     {
       title: "Web Developer",
@@ -51,7 +51,7 @@ const ExperienceSection = () => {
       period: "Aug 2024 - Sep 2025",
       description:
         "Developed and implemented comprehensive player development programs, enhancing member engagement and satisfaction.",
-      icon: <Code className="w-6 h-6 text-primary" />,
+      icon: <Clapperboard className="w-6 h-6 text-primary" />,
     },
     {
       title: "Assistant Golf Professional",
