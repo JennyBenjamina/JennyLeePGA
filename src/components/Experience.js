@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import { User, Briefcase, Code } from "lucide-react";
+import { User, Code } from "lucide-react";
 
 const ExperienceSection = () => {
   const cardsRef = useRef([]);
