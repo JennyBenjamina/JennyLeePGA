@@ -613,7 +613,7 @@ const Portfolio = () => {
               {/* Achievements Section */}
               <section className="mb-16">
                 <h3 className="text-2xl font-bold text-primary font-serif mb-8">
-                  Achievements
+                  PlayingAchievements
                 </h3>
                 <div className="grid md:grid-cols-1 gap-6">
                   <div className="bg-primary p-6 rounded-lg shadow-custom flex flex-col gap-3">
@@ -630,7 +630,7 @@ const Portfolio = () => {
                         <Award className="w-6 h-6 text-white" />
                       </div>
                       <p className="text-primary font-semibold font-serif">
-                        2025 Women’s Section Champion
+                        2025 SCPGA Women’s Section Champion
                       </p>
                     </div>
                     <div className="flex items-center gap-4">
